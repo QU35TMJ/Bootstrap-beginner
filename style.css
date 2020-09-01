@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: red;
+}
+main{
+    margin-top: 50px;
+    position: relative;
+}
+.story img{
+    position: relative;
+    width: 100%;
+}
+.story h5:hover{
+    text-decoration-line: underline;
+    text-decoration-color: red;
+}
+.story-type{
+    margin-top: -33px;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5px 10px;
+    color: red;
+}
+.featured-stories-center{
+   
+}
+.small-story img{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+.tiny-story{
+    border-top: 1px solid grey;
+    margin-top: 20px;
+    padding-top: 20px;
+
+}
+.debater-top {
+    font-size: .75em;
+    border-top: 3px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-bottom: 2px;
+  }
+.vs{
+    background-color: black;
+    border-radius:50%;
+    display: inline;
+    vertical-align: middle;
+    padding: 10px;
+    margin-left: 45%;
+    margin-right: auto;
+    position: absolute;
+}
+.debater-bottom{
+    border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.opinion{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}.opinion img{
+    height: 60px;
+    width: 80px;
+}
+form{
+    border: 1px solid grey;
+}
+form img{
+    height: 30px;
+    width: 50px;
+    margin-top: 10px;
+    margin-right: -10px;
+}
+.btn-form{
+    background-color: red;
+}
