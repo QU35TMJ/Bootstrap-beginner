@@ -153,4 +153,7 @@ form img{
 .nav-footer{
     background-color: transparent;
 }
+.list-inline-item a{
+    color: black;
+}
 
